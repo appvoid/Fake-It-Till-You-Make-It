@@ -1,0 +1,16 @@
+FreeSound SFX Authors:
+Author: blarz, SFX: pen-write-scribble-dlugopis-pisanie.mp3
+Author: taira-komori, SFX: pushing-enter-key.mp3
+Author: renatofarabeuf, SFX: sitting-on-chair.wav
+Author: matrixxx, SFX: button-switch-on.wav
+Author: iamgiorgio, SFX: e6-mug-at-office.mp3
+Author: frecsh, SFX: clicking-with-mouse.ogg
+Author: deleted-user-7020630, SFX: writting.wav
+Author: morganpurkis, SFX: fan-looped.wav
+Author: devern, SFX: mouse-click.wav
+Author: aiwha, SFX: office-chair-1.wav
+Author: daddo22, SFX: metal-tssht.ogg
+Author: jay-you, SFX: stapler.wav
+Author: mwsfx, SFX: office-chair-sitting.wav
+Author: pepe827, SFX: aa-foley-pluma-2.wav
+Author: aesterial-arts, SFX: squeaky-chair.wav
