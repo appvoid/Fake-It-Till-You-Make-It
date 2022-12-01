@@ -1,7 +1,7 @@
 # Fake It Till You Make It
 An horror, survival game inside a house
 
-This is an incomplete attempt from a pygame beginner to the [GitHubGameOff](https://twitter.com/hashtag/GitHubGameOff) Game Jam. But hey! Nothing bad for a first time game dev in 2 weeks.
+This is an incomplete attempt from a pygame beginner to the [GitHubGameOff](https://twitter.com/hashtag/GitHubGameOff) Game Jam. But hey! Nothing bad for a first time game dev in 2 weeks. I've learned a lot about python and pygame so, I am thankful that I earned a lot of good experience and knowledge with this!
 
 ### Requirements
 Python, Pygame
