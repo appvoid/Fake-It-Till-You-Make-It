@@ -1,4 +1,4 @@
-# Fake-It-Till-You-Make-It
+# Fake It Till You Make It
 An horror, survival game inside a house
 
 This is an incomplete attempt from a pygame beginner to the [GitHubGameOff](https://twitter.com/hashtag/GitHubGameOff) Game Jam.
